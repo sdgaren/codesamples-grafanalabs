@@ -124,7 +124,7 @@ with sor_cte as (
 --Join sales orders and invoices, calculate variance between what the invoice table SHOULD show and what it ACTUALLY shows per row. Elevate the months, dates within, and items within with the greatest value of variance. Data Integrity will prioritize research in the order this report returns.
 select sor_cte.sor_hdr as 'Order Header'
 	, sor_cte.sor_scl as 'Line Item'
-	, sor_cte.consumer_order_datetime_pacific as 'Order Date PST/PDT' --Order datetimes are stored in UTC, converts to Pacific timezone
+	, sor_cte.consumer_order_datetime_pacific as 'Order Date PST/PDT'
 	, sor_cte.order_origin as 'Order Origin'
 	, sor_cte.article as 'Article'
 	, sor_cte.netvalue_demand_amt_curr_doc as 'Sales Order Value'
