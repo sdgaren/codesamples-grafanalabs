@@ -3,25 +3,25 @@
 This query was designed to help identify and prioritize fixes to records 
 contributing to a systematic data quality issue, where certain invoices were 
 either double-counted or were failing to be counted at all. Because the error 
-is bidirectional, the sum of variance is low, since double-countings cancel
-out missed countings for the most part. As a result, the team responsible for
+is bidirectional, the sum of variance was low, since double-countings cancel
+out missed countings for the most part; as a result, the team responsible for
 this data integrity was having a hard time determining where to start or what
 records to look at. To help, I constructed the below query which assesses what
 we know of each sales order's processing status to determine the total invoiced 
 value we SHOULD have counted, vs invoicing data that shows us what we have
 ACTUALLY captured.
 
-The magnitude of the defect varies significantly by day for reasons not yet
-fully understood, so attached to each individual analyzed sales item is an
-accounting of how large of defects were found on that order date total, and
-within that order month overall. Combined with the item's individual variance
-to expected value, these three metrics help the data integrity team efficiently
-prioritize repairs to line items that will have the most immediate impact for
-business users once the record is cleaned up.
+The magnitude of the defect varies significantly by day and month, so attached
+to each individual analyzed sales item is an accounting of how large of defects
+were found on that order date total, and within that order month overall.
+Combined with the item's individual variance to expected value, these three
+metrics help the data integrity team efficiently prioritize repairs to line
+items that will have the most immediate impact for business users once the
+record is cleaned up.
 
-Note also that the below is written against the Exasol SQL dialect which is...
-distinct at times, and very Oracle-y. Should you have any questions at all
-about what is designed here and why, please do not hesitate to ask.
+Note also that the below is written against the Exasol 7.1 SQL dialect which
+is quite distinct (very Oracle-y) and that the below is production code
+written against databases that are not very internally-consistent.
 
 -Samuel Garen
 206 351 8258

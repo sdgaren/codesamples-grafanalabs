@@ -40,6 +40,10 @@ requirements for the output CSV from this process, so a custom CSV output
 routine was created to accommodate. Instructional comments are left throughout
 to assist the client with maintenance of this script long-term.
 
+A sample input file is also available for your review in the /reports folder
+and a sample CSV complient with the client's requirements is available at
+output.csv.
+
 -Samuel Garen
 206 351 8258
 sdgaren@gmail.com
