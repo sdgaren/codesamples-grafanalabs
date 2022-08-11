@@ -1,0 +1,464 @@
+ÐÏà¡±á>þÿ	þÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿýÿÿÿ$	
+ !"%#'þÿÿÿ&)(*+,-xz/0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwþÿÿÿyþÿÿÿþÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿRoot EntryÿÿÿÿÿÿÿÿÀFæ°fCAÓ+__nameid_version1.0(ÿÿÿÿÿÿÿÿº©fCAÓº©fCAÓ__substg1.0_00020102*ÿÿÿÿÿÿÿÿÿÿÿÿ@__substg1.0_00030102*ÿÿÿÿ8þÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿ!þÿÿÿþÿÿÿþÿÿÿ%þÿÿÿþÿÿÿ(þÿÿÿ*+,-./0123456789:;<=>?@ABCþÿÿÿEþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿLþÿÿÿNOþÿÿÿQþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿXþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿ_`þÿÿÿþÿÿÿþÿÿÿdefghijklmnopqrstuvþÿÿÿþÿÿÿyþÿÿÿþÿÿÿþÿÿÿ}þÿÿÿþÿÿÿþÿÿÿ ÀFÀF¤ë3¨z.B¾{yá©T³òAôA¥îÛZkÿ	H	Ø	(HBx-ms-exchange-organization-authas6ConversationIndexTrackingExPx-ms-exchange-organization-authmechanismJx-ms-exchange-organization-authsourceIsReadReceiptIsSigned__substg1.0_00040102*ÿÿÿÿÿÿÿÿÿÿÿÿ\__substg1.0_10010102*ÿÿÿÿ__substg1.0_10060102*ÿÿÿÿÿÿÿÿÿÿÿÿ	__substg1.0_10120102*	ÿÿÿÿ
+æ§¥æéa§)	FÇþ,wé	ód7	yzï©IPM.Note__substg1.0_10140102*ÿÿÿÿÿÿÿÿÿÿÿÿ__substg1.0_10160102*
+ÿÿÿÿ__substg1.0_10190102*ÿÿÿÿÿÿÿÿ__substg1.0_101C0102*ÿÿÿÿÿÿÿÿÿÿÿÿ__substg1.0_001A001F*ÿÿÿÿ__substg1.0_0037001F*ÿÿÿÿÿÿÿÿÿÿÿÿD__substg1.0_003B0102*ÿÿÿÿ __substg1.0_003D001F*ÿÿÿÿÿÿÿÿÿÿÿÿþÿÿÿSubject: Missing Register ReadingsSMTP:ZAWPMDC@MDCPROD01.CORP.DOMÜ§@ÈÀB´¹+/á/O=Client/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=MDC1MDC+¤¾£nÝTAppworx AgentSMTPzawpmdc@mdcprod01.corp.dom__substg1.0_003F0102*ÿÿÿÿW__substg1.0_0040001F*ÿÿÿÿÿÿÿÿÿÿÿÿ__substg1.0_00410102*ÿÿÿÿt__substg1.0_0042001F*ÿÿÿÿÿÿÿÿÿÿÿÿAppworx AgentÜ§@ÈÀB´¹+/á/O=Client/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=MDC1MDCEX:/O=Client/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=MDC1EX:/O=Client/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=MDC1SMTPzawpmdc@mdcprod01.corp.dom__substg1.0_00430102*ÿÿÿÿW__substg1.0_0044001F*ÿÿÿÿÿÿÿÿÿÿÿÿ__substg1.0_00510102*ÿÿÿÿ>__substg1.0_00520102*ÿÿÿÿÿÿÿÿÿÿÿÿ>__substg1.0_0064001F*ÿÿÿÿ__substg1.0_0065001F*ÿÿÿÿÿÿÿÿÿÿÿÿ4__substg1.0_0070001F**ÿÿÿÿ D__substg1.0_00710102*ÿÿÿÿÿÿÿÿÿÿÿÿ"Subject: Missing Register ReadingsÓ7Xñ?ÅôÚô÷O»rQ çEX/O=Client/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=MDC1EX/O=Client/OU=FIRST ADMINISTRATIVE G__substg1.0_0075001F*ÿÿÿÿ#__substg1.0_0076001F*ÿÿÿÿÿÿÿÿÿÿÿÿ$t__substg1.0_0077001F* ÿÿÿÿ&__substg1.0_0078001F*ÿÿÿÿÿÿÿÿÿÿÿÿ'tROUP/CN=RECIPIENTS/CN=MDC1Content-Type: multipart/mixed;
+	boundary="_036b86f8-4c6a-4ba9-8fd8-42d77e99fc19_"
+Received: from mdcprod01.corp.dom (10.80.2.229) by JWTCVPEXCHT2.corp.dom
+ (10.80.2.12) with Microsoft SMTP Server id 14.3.319.2; Tue, 1 Aug__substg1.0_007D001F*!ÿÿÿÿ)²__substg1.0_0C190102*ÿÿÿÿÿÿÿÿÿÿÿÿDt__substg1.0_0C1A001F*&ÿÿÿÿF__substg1.0_0C1D0102*ÿÿÿÿÿÿÿÿÿÿÿÿG  2021
+ 19:30:45 -0700
+Received: (from root@localhost)	by mdcprod01.corp.dom (AIX6.1/8.14.4/8.11.0)
+ id v722Ujsl16449726;	Wed, 1 Dec 2021 19:30:45 -0700
+Date: Wed, 1 Dec 2021 19:30:45 -0700
+From: Appworx Agent <zawpmdc@mdcprod01.corp.dom>
+Message-ID: <202112020230.v722Ujsl16449726@mdcprod01.corp.dom>
+Subject: Subject: Missing Register Readings
+MIME-Version: 1.0
+Return-Path: zawpmdc@mdcprod01.corp.dom
+X-MS-Exchange-Organization-AuthSource: JWTCVPEXCHT2.corp.dom
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 10
+X-ConvertedToMime: 1
++¤¾£nÝTAppworx AgentSMTPzawpmdc@mdcprod01.corp.domAppworx AgentSMTP:ZAWPMDC@MDCPROD01.CORP.DOM__substg1.0_0C1E001F*#%ÿÿÿÿH__substg1.0_0C1F001F*ÿÿÿÿÿÿÿÿÿÿÿÿI4__substg1.0_0E02001F*$(ÿÿÿÿþÿÿÿ__substg1.0_0E03001F*ÿÿÿÿÿÿÿÿÿÿÿÿþÿÿÿSMTPzawpmdc@mdcprod01.corp.domMDC; Rama NarisettySubject: Missing Register Readings	LZFu!!´
+rcpg125"2CtexBbiþd0÷
+¤äÿsPVU²¥'Qch
+ÀseÜt2Ã¥3F7Þ0¬³ï	÷;0v5¢`cP	d3&6Ð¦ }__substg1.0_0E04001F*')ÿÿÿÿJ(__substg1.0_0E1D001F*ÿÿÿÿÿÿÿÿÿÿÿÿKD__substg1.0_1000001F*"2ÿÿÿÿþÿÿÿ__substg1.0_10090102*ÿÿÿÿÿÿÿÿÿÿÿÿM__substg1.0_1035001F*+-ÿÿÿÿPd__substg1.0_300B0102*ÿÿÿÿÿÿÿÿÿÿÿÿR__substg1.0_30140102*,0ÿÿÿÿS__substg1.0_30190102*ÿÿÿÿÿÿÿÿÿÿÿÿT<202112020230.v722Ujsl16449726@mdcprod01.corp.dom>Ì\gcMªÖ1ÙhÚMâµ,]×Ç©Kªxj[SÁUmøêW7ÓAppworx Agent+¤¾£nÝTAppworx AgentSMTPz__substg1.0_301B0102*/1ÿÿÿÿU__substg1.0_3FFA001F*ÿÿÿÿÿÿÿÿÿÿÿÿV__substg1.0_3FFB0102*.6ÿÿÿÿWt__substg1.0_5D01001F*ÿÿÿÿÿÿÿÿÿÿÿÿY4awpmdc@mdcprod01.corp.domzawpmdc@mdcprod01.corp.domzawpmdc@mdcprod01.corp.domE¼¯WÝ'FGÜ:´ÁcËÄs*E¼¯WÝ'FGÜ:´ÁcËÄs*InternalBT=0;II=<invalid>;FIXUP=0.5134;Version=Version 14.3 (Build 312.0__substg1.0_5D02001F*35ÿÿÿÿZ4__substg1.0_65E20102*ÿÿÿÿÿÿÿÿÿÿÿÿ[__substg1.0_65E30102*4:ÿÿÿÿ\__substg1.0_8001001F*ÿÿÿÿÿÿÿÿÿÿÿÿ]__substg1.0_8002001F*79ÿÿÿÿ^__substg1.0_8003001F*ÿÿÿÿÿÿÿÿÿÿÿÿa__substg1.0_8004001F*8<ÿÿÿÿb*__properties_version1.00ÿÿÿÿÿÿÿÿÿÿÿÿcÐ), Stage=H1210JWTCVPEXCHT2.corp.dom@0I§fCAÓ@0I§fCAÓ÷ô4y*Et67F@9øêW7Ó; 7?W9@At5BCW9DQ>;R>;d
+e6pFquvvwxv}´t5 7
+6@I+uX7Ó#)/)y5f080800808@0Ië;Ñ*Ô0Þ?¯oñ?	ú?û?t5ý?ä@@@@]6]6,=	âeãeF2:__recip_version1.0_#00000000:;H@¬fCAÓu®fCAÓ__substg1.0_0FF60102*ÿÿÿÿÿÿÿÿÿÿÿÿw__substg1.0_0FFF0102*=?ÿÿÿÿxW__substg1.0_3001001F*ÿÿÿÿÿÿÿÿÿÿÿÿzÜ§@ÈÀB´¹+/á/O=Client/OU=First Administrative Group/cn=Recipients/cn=MDC1MDCEX/O=Client/OU=First Administrative Group/cn=Recipients/cn=MDC1EX:/O=Client/OU=FIRST ADMINISTRATIVE GROUP/CN=RECIPIENTS/CN=MDC1MDC@client.com__substg1.0_3002001F*>Bÿÿÿÿ{__substg1.0_3003001F*ÿÿÿÿÿÿÿÿÿÿÿÿ|t__substg1.0_300B0102*ADÿÿÿÿ~>__substg1.0_39FE001F*ÿÿÿÿÿÿÿÿÿÿÿÿ__substg1.0_3A20001F*CFÿÿÿÿ__substg1.0_5FE5001F*ÿÿÿÿÿÿÿÿÿÿÿÿ__substg1.0_5FF70102*EGÿÿÿÿW__properties_version1.00ÿÿÿÿÿÿÿÿÿÿÿÿ(þÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿþÿÿÿ þÿÿÿþÿÿÿþÿÿÿ¤¥þÿÿÿþÿÿÿ¨þÿÿÿª«¬­þÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿMDC Ü§@ÈÀB´¹+/á/o=Client/ou=First Administrative Group/cn=Recipients/cn=MDC1þÿWf000v0>f99@þ9 :@:å_÷_Wfý_öf0702:Ü§@ÈÀB´¹+/á/O=client/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=E02102Rama NarisettyEX/O=Client/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=REC__recip_version1.0_#00000001:ÿÿÿÿTLu®fCAÓu®fCAÓ__substg1.0_0FF60102*ÿÿÿÿÿÿÿÿÿÿÿÿ__substg1.0_0FFF0102*IKÿÿÿÿn__substg1.0_3001001F*ÿÿÿÿÿÿÿÿÿÿÿÿ__substg1.0_3002001F*JNÿÿÿÿ__substg1.0_3003001F*ÿÿÿÿÿÿÿÿÿÿÿÿ¢__substg1.0_300B0102*MPÿÿÿÿU__substg1.0_39FE001F*ÿÿÿÿÿÿÿÿÿÿÿÿ,IPIENTS/CN=E02102EX:/O=Client/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=E02102Ü§@ÈÀB´¹+/á/o=Client/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=E02102__substg1.0_3A20001F*ORÿÿÿÿ__substg1.0_5FE5001F*ÿÿÿÿÿÿÿÿÿÿÿÿ$__substg1.0_5FF70102*QSÿÿÿÿn__properties_version1.00ÿÿÿÿÿÿÿÿÿÿÿÿ(þÿnY000¤0UY99@þ9. :@:å_&÷_nYý_öY0A8exporthomemdmafpmdcpexportarchivehunt_touMissing_Register_Readin__attach_version1.0_#00000000<ÿÿÿÿÿÿÿÿXu®fCAÓæ°fCAÓ__substg1.0_0FF90102*ÿÿÿÿÿÿÿÿÿÿÿÿ__substg1.0_3001001F*UWÿÿÿÿ__substg1.0_37010102*ÿÿÿÿÿÿÿÿÿÿÿÿ."gs.txt.20211201.20211201export~1.201exporthomemdmafpmdcpexportarchivehunt_touMissing_Register_Readings.txt.20211201application/octet-stream44AB25A07C47C746B9EE77080F8A0D9B                  Missing Register Readings Report                01-DEC-21
+                           Read Cycle {03}
+          Schedule Dates {30-NOV-21} through {01-DEC-21}
+===============================================================================================
+   SDP Code    Meter Code   CYCLE   Uom     Type     Multiplier   Error Message                          
+===============================================================================================
+
+   58392981    23635516IN   03      KWH     TOTAL                 Consecutive Estimates Exceeded
+   965446258   28909663IN   03      KWH     ON-PEAK               Estimate Not Allowed
+   965446258   28909663IN   03      KWH     TOTAL                 Estimate Not Allowed
+   769852801   10382398GNAB 03      KW      ON-PEAK               Estimate Not Allowed
+   769865479   31029627GNAB 03      KWH     OFF-PEAK              Estimate Not Allowed
+   769865479   31029627GNAB 03      KWH     ON-PEAK               Estimate Not Allowed
+   769865479   31029627GNAB 03      KWH     TOTAL                 Estimate Not Allowed
+   769865479   31029627GNAB 03      KW      OFF-PEAK              Estimate Not Allowed
+   769865479   31029627GNAB 03      KW      ON-PEAK               Estimate Not Allowed
+   769865725   31042439GNAB 03      KWH     OFF-PEAK              Estimate Not Allowed
+   769865725   31042439GNAB 03      KWH     ON-PEAK               Estimate Not Allowed
+   769865725   31042439GNAB 03      KWH     TOTAL                 Estimate Not Allowed
+   769865725   31042439GNAB 03      KW      OFF-PEAK              Estimate Not Allowed
+   769865725   31042439GNAB 03      KW      ON-PEAK               Estimate Not Allowed
+   769865725   31042439GNAB 03      KVAR    PEAK                  Estimate Not Allowed
+   769876541   31030264GNAB 03      KWH     OFF-PEAK              Estimate Not Allowed
+   769876541   31030264GNAB 03      KWH     ON-PEAK               Estimate Not Allowed
+   769876541   31030264GNAB 03      KWH     TOTAL                 Estimate Not Allowed
+   769876541   31030264GNAB 03      KW      OFF-PEAK              Estimate Not Allowed
+   769876541   31030264GNAB 03      KW      ON-PEAK               Estimate Not Allowed
+   769878723   31037530AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   769878723   31037530AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   769878723   31037530AB   03      KWH     TOTAL                 Estimate Not Allowed
+   769878723   31037530AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   769878723   31037530AB   03      KW      ON-PEAK               Estimate Not Allowed
+   806751683   31015013AB   03      KWH     TOTAL                 Estimate Not Allowed
+   806751683   31015013AB   03      KW      PEAK                  Estimate Not Allowed
+   82107174    31011714AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   82107174    31011714AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   82107174    31011714AB   03      KWH     TOTAL                 Estimate Not Allowed
+   82107174    31011714AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   82107174    31011714AB   03      KW      ON-PEAK               Estimate Not Allowed
+   827762163   31014538AB   03      KWH     TOTAL                 Estimate Not Allowed
+   827762163   31014538AB   03      KW      PEAK                  Estimate Not Allowed
+   85232395    09927009AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   85232395    09927009AB   03      KWH     MID-PEAK              Estimate Not Allowed
+   85232395    09927009AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   85232395    09927009AB   03      KWH     TOTAL                 Estimate Not Allowed
+   904046958   09817689AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   904046958   09817689AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   904046958   09817689AB   03      KWH     TOTAL                 Estimate Not Allowed
+   904046958   09817689AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   904046958   09817689AB   03      KW      ON-PEAK               Estimate Not Allowed
+   904063077   31037134AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   904063077   31037134AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   904063077   31037134AB   03      KWH     TOTAL                 Estimate Not Allowed
+   904063077   31037134AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   904063077   31037134AB   03      KW      ON-PEAK               Estimate Not Allowed
+   904068492   31042371GNAB 03      KWH     OFF-PEAK              Estimate Not Allowed
+   904068492   31042371GNAB 03      KWH     ON-PEAK               Estimate Not Allowed
+   904068492   31042371GNAB 03      KWH     TOTAL                 Estimate Not Allowed
+   904068492   31042371GNAB 03      KW      OFF-PEAK              Estimate Not Allowed
+   904068492   31042371GNAB 03      KW      ON-PEAK               Estimate Not Allowed
+   904069450   31039599GNAB 03      KWH     TOTAL                 Estimate Not Allowed
+   904069450   31039599GNAB 03      KW      PEAK                  Estimate Not Allowed
+   904077191   31039379GNAB 03      KWH     OFF-PEAK              Estimate Not Allowed
+   904077191   31039379GNAB 03      KWH     ON-PEAK               Estimate Not Allowed
+   904077191   31039379GNAB 03      KWH     TOTAL                 Estimate Not Allowed
+   904077191   31039379GNAB 03      KW      OFF-PEAK              Estimate Not Allowed
+   904077191   31039379GNAB 03      KW      ON-PEAK               Estimate Not Allowed
+   904078993   31039251AB   03      KWH     TOTAL                 Estimate Not Allowed
+   904078993   31039251AB   03      KW      PEAK                  Estimate Not Allowed
+   904078993   31039251AB   03      KVAR    PEAK                  Estimate Not Allowed
+   960588758   10380954AB   03      KWH     TOTAL                 Estimate Not Allowed
+   960588758   10380954AB   03      KW      PEAK                  Estimate Not Allowed
+   965446258   28909663IN   03      KWH     OFF-PEAK              Estimate Not Allowed
+   965446258   28909663IN   03      KWH     MID-PEAK              Estimate Not Allowed
+   551146425   31042971AB   03      KWH     TOTAL                 Estimate Not Allowed
+   551146425   31042971AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   551146425   31042971AB   03      KW      ON-PEAK               Estimate Not Allowed
+   59980914    09603203AB   03      KWH     TOTAL                 Estimate Not Allowed
+   61916953    09912662AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   61916953    09912662AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   61916953    09912662AB   03      KWH     TOTAL                 Estimate Not Allowed
+   61916953    09912662AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   61916953    09912662AB   03      KW      ON-PEAK               Estimate Not Allowed
+   62154512    09817100AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   62154512    09817100AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   62154512    09817100AB   03      KWH     TOTAL                 Estimate Not Allowed
+   62154512    09817100AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   62154512    09817100AB   03      KW      ON-PEAK               Estimate Not Allowed
+   62475626    09572799AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   62475626    09572799AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   62475626    09572799AB   03      KWH     TOTAL                 Estimate Not Allowed
+   62475626    09572799AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   62475626    09572799AB   03      KW      ON-PEAK               Estimate Not Allowed
+   62475626    09572799AB   03      KVAR    PEAK                  Estimate Not Allowed
+   62492040    09634094AB   03      KWH     TOTAL                 Estimate Not Allowed
+   62492040    09634094AB   03      KW      PEAK                  Estimate Not Allowed
+   65716595    31017468AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   65716595    31017468AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   65716595    31017468AB   03      KWH     TOTAL                 Estimate Not Allowed
+   65716595    31017468AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   65716595    31017468AB   03      KW      ON-PEAK               Estimate Not Allowed
+   683109713   09911718AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   683109713   09911718AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   683109713   09911718AB   03      KWH     TOTAL                 Estimate Not Allowed
+   683109713   09911718AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   683109713   09911718AB   03      KW      ON-PEAK               Estimate Not Allowed
+   769811454   31019885AB   03      KWH     TOTAL                 Estimate Not Allowed
+   769811454   31019885AB   03      KW      PEAK                  Estimate Not Allowed
+   769817591   10076036AB   03      KWH     TOTAL                 Estimate Not Allowed
+   769817591   10076036AB   03      KW      PEAK                  Estimate Not Allowed
+   769822771   31042342GNAB 03      KWH     OFF-PEAK              Estimate Not Allowed
+   769822771   31042342GNAB 03      KWH     ON-PEAK               Estimate Not Allowed
+   769822771   31042342GNAB 03      KWH     TOTAL                 Estimate Not Allowed
+   769822771   31042342GNAB 03      KW      OFF-PEAK              Estimate Not Allowed
+   769822771   31042342GNAB 03      KW      ON-PEAK               Estimate Not Allowed
+   769822771   31042342GNAB 03      KVAR    PEAK                  Estimate Not Allowed
+   769838418   08734017GNAB 03      KWH     OFF-PEAK              Estimate Not Allowed
+   769838418   08734017GNAB 03      KWH     ON-PEAK               Estimate Not Allowed
+   769838418   08734017GNAB 03      KWH     TOTAL                 Estimate Not Allowed
+   769838418   08734017GNAB 03      KW      OFF-PEAK              Estimate Not Allowed
+   769838418   08734017GNAB 03      KW      ON-PEAK               Estimate Not Allowed
+   769849549   31026985AB   03      KWH     TOTAL                 Estimate Not Allowed
+   769849550   31026985GNAB 03      KWH     TOTAL                 Estimate Not Allowed
+   769850491   31027347AB   03      KWH     TOTAL                 Estimate Not Allowed
+   769850492   31027347GNAB 03      KWH     TOTAL                 Estimate Not Allowed
+   769850493   31027346AB   03      KWH     TOTAL                 Estimate Not Allowed
+   769850494   31027346GNAB 03      KWH     TOTAL                 Estimate Not Allowed
+   769851037   31027439AB   03      KWH     TOTAL                 Estimate Not Allowed
+   769851039   31027439GNAB 03      KWH     TOTAL                 Estimate Not Allowed
+   769852664   10382121GNAB 03      KWH     OFF-PEAK              Estimate Not Allowed
+   769852664   10382121GNAB 03      KWH     ON-PEAK               Estimate Not Allowed
+   769852664   10382121GNAB 03      KWH     TOTAL                 Estimate Not Allowed
+   769852664   10382121GNAB 03      KW      OFF-PEAK              Estimate Not Allowed
+   769852664   10382121GNAB 03      KW      ON-PEAK               Estimate Not Allowed
+   769852801   10382398GNAB 03      KWH     OFF-PEAK              Estimate Not Allowed
+   769852801   10382398GNAB 03      KWH     ON-PEAK               Estimate Not Allowed
+   769852801   10382398GNAB 03      KWH     TOTAL                 Estimate Not Allowed
+   769852801   10382398GNAB 03      KW      OFF-PEAK              Estimate Not Allowed
+   308161991   28909483IN   03      KWH     ON-PEAK               Estimate Not Allowed
+   308161991   28909483IN   03      KWH     TOTAL                 Estimate Not Allowed
+   329112028   09572621AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   329112028   09572621AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   329112028   09572621AB   03      KWH     TOTAL                 Estimate Not Allowed
+   329112028   09572621AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   329112028   09572621AB   03      KW      ON-PEAK               Estimate Not Allowed
+   329112028   09572621AB   03      KVAR    PEAK                  Estimate Not Allowed
+   387397852   31011247AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   387397852   31011247AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   387397852   31011247AB   03      KWH     TOTAL                 Estimate Not Allowed
+   387397852   31011247AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   387397852   31011247AB   03      KW      ON-PEAK               Estimate Not Allowed
+   466893763   31045329AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   466893763   31045329AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   466893763   31045329AB   03      KWH     TOTAL                 Estimate Not Allowed
+   466893763   31045329AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   466893763   31045329AB   03      KW      ON-PEAK               Estimate Not Allowed
+   466893763   31045329AB   03      KVAR    PEAK                  Estimate Not Allowed
+   467013957   31045328AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   467013957   31045328AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   467013957   31045328AB   03      KWH     TOTAL                 Estimate Not Allowed
+   467013957   31045328AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   467013957   31045328AB   03      KW      ON-PEAK               Estimate Not Allowed
+   467013957   31045328AB   03      KVAR    PEAK                  Estimate Not Allowed
+   467020690   31045331AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   467020690   31045331AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   467020690   31045331AB   03      KWH     TOTAL                 Estimate Not Allowed
+   467020690   31045331AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   467020690   31045331AB   03      KW      ON-PEAK               Estimate Not Allowed
+   467020690   31045331AB   03      KVAR    PEAK                  Estimate Not Allowed
+   480164929   09669202AB   03      KWH     TOTAL                 Estimate Not Allowed
+   480164929   09669202AB   03      KW      PEAK                  Estimate Not Allowed
+   523638280   31014539AB   03      KWH     TOTAL                 Estimate Not Allowed
+   523638280   31014539AB   03      KW      PEAK                  Estimate Not Allowed
+   54535915    09669138AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   54535915    09669138AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   54535915    09669138AB   03      KWH     TOTAL                 Estimate Not Allowed
+   54535915    09669138AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   54535915    09669138AB   03      KW      ON-PEAK               Estimate Not Allowed
+   54712993    09496074AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   54712993    09496074AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   54712993    09496074AB   03      KWH     TOTAL                 Estimate Not Allowed
+   54712993    09496074AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   54712993    09496074AB   03      KW      ON-PEAK               Estimate Not Allowed
+   54714100    09491409AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   54714100    09491409AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   54714100    09491409AB   03      KWH     TOTAL                 Estimate Not Allowed
+   54714100    09491409AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   54714100    09491409AB   03      KW      ON-PEAK               Estimate Not Allowed
+   54714100    09491409AB   03      KVAR    PEAK                  Estimate Not Allowed
+   54739270    31031196AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   54739270    31031196AB   03      KWH     MID-PEAK              Estimate Not Allowed
+   54739270    31031196AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   54739270    31031196AB   03      KWH     TOTAL                 Estimate Not Allowed
+   54761019    09666903AB   03      KWH     TOTAL                 Estimate Not Allowed
+   54761019    09666903AB   03      KW      PEAK                  Estimate Not Allowed
+   54768036    09666891AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   54768036    09666891AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   54768036    09666891AB   03      KWH     TOTAL                 Estimate Not Allowed
+   54768036    09666891AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   54768036    09666891AB   03      KW      ON-PEAK               Estimate Not Allowed
+   551146425   31042971AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   551146425   31042971AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   106801180   31042070AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   106801180   31042070AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   106801180   31042070AB   03      KWH     TOTAL                 Estimate Not Allowed
+   106801180   31042070AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   106801180   31042070AB   03      KW      ON-PEAK               Estimate Not Allowed
+   106931455   10350092AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   106931455   10350092AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   106931455   10350092AB   03      KWH     TOTAL                 Estimate Not Allowed
+   106931455   10350092AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   106931455   10350092AB   03      KW      ON-PEAK               Estimate Not Allowed
+   106960106   31010899AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   106960106   31010899AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   106960106   31010899AB   03      KWH     TOTAL                 Estimate Not Allowed
+   106960106   31010899AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   106960106   31010899AB   03      KW      ON-PEAK               Estimate Not Allowed
+   109041337   24488356IN   03      KWH     TOTAL                 Estimate Not Allowed
+   109041337   24488356IN   03      KW      PEAK                  Estimate Not Allowed
+   109461777   09833338AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   109461777   09833338AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   109461777   09833338AB   03      KWH     TOTAL                 Estimate Not Allowed
+   109461777   09833338AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   109461777   09833338AB   03      KW      ON-PEAK               Estimate Not Allowed
+   130161408   09782994AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   130161408   09782994AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   130161408   09782994AB   03      KWH     TOTAL                 Estimate Not Allowed
+   130161408   09782994AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   130161408   09782994AB   03      KW      ON-PEAK               Estimate Not Allowed
+   130161408   09782994AB   03      KVAR    PEAK                  Estimate Not Allowed
+   191618296   09833511AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   191618296   09833511AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   191618296   09833511AB   03      KWH     TOTAL                 Estimate Not Allowed
+   191618296   09833511AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   191618296   09833511AB   03      KW      ON-PEAK               Estimate Not Allowed
+   191618296   09833511AB   03      KVAR    PEAK                  Estimate Not Allowed
+   193989081   10380319AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   193989081   10380319AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   193989081   10380319AB   03      KWH     TOTAL                 Estimate Not Allowed
+   193989081   10380319AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   193989081   10380319AB   03      KW      ON-PEAK               Estimate Not Allowed
+   193989081   10380319AB   03      KVAR    PEAK                  Estimate Not Allowed
+   271018607   29291211IN   03      KWH     OFF-PEAK              Estimate Not Allowed
+   271018607   29291211IN   03      KWH     MID-PEAK              Estimate Not Allowed
+   271018607   29291211IN   03      KWH     ON-PEAK               Estimate Not Allowed
+   271018607   29291211IN   03      KWH     TOTAL                 Estimate Not Allowed
+   280361838   31034021AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   280361838   31034021AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   280361838   31034021AB   03      KWH     TOTAL                 Estimate Not Allowed
+   280361838   31034021AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   280361838   31034021AB   03      KW      ON-PEAK               Estimate Not Allowed
+   280477650   33024554IN   03      KWH     OFF-PEAK              Estimate Not Allowed
+   280477650   33024554IN   03      KWH     MID-PEAK              Estimate Not Allowed
+   280477650   33024554IN   03      KWH     ON-PEAK               Estimate Not Allowed
+   280477650   33024554IN   03      KWH     TOTAL                 Estimate Not Allowed
+   280659037   31019113AB   03      KWH     TOTAL                 Estimate Not Allowed
+   280659037   31019113AB   03      KW      PEAK                  Estimate Not Allowed
+   280674788   31020829AB   03      KWH     TOTAL                 Estimate Not Allowed
+   280674788   31020829AB   03      KW      PEAK                  Estimate Not Allowed
+   280692542   31011294AB   03      KWH     OFF-PEAK              Estimate Not Allowed
+   280692542   31011294AB   03      KWH     ON-PEAK               Estimate Not Allowed
+   280692542   31011294AB   03      KWH     TOTAL                 Estimate Not Allowed
+   280692542   31011294AB   03      KW      OFF-PEAK              Estimate Not Allowed
+   280692542   31011294AB   03      KW      ON-PEAK               Estimate Not Allowed
+   308161991   28909483IN   03      KWH     OFF-PEAK              Estimate Not Allowed
+   308161991   28909483IN   03      KWH     MID-PEAK              Estimate Not Allowed
+   416570221   23150730IN   03                                    MDC - Banner Cust Codes Different - Used Banner Cust Code
+   622250714   27286404LG   03                                    MDC - Banner Cust Codes Different - Used Banner Cust Code
+   107318196   34231670IN   03      KWH     TOTAL                 Meter mismatch Banner/MDC
+   103793601   25368141IN   03      KWH     TOTAL                 No Register Readings Found
+   103798292   25368138IN   03      KWH     TOTAL                 No Register Readings Found
+   103923185   23103163LG   03      KWH     TOTAL                 No Register Readings Found
+   105515445   25012086IN   03      KWH     OFF-PEAK              No Register Readings Found
+   105515445   25012086IN   03      KWH     MID-PEAK              No Register Readings Found
+   105515445   25012086IN   03      KWH     ON-PEAK               No Register Readings Found
+   105515445   25012086IN   03      KWH     TOTAL                 No Register Readings Found
+   106516741   25051844IN   03      KWH     OFF-PEAK              No Register Readings Found
+   106516741   25051844IN   03      KWH     MID-PEAK              No Register Readings Found
+   106516741   25051844IN   03      KWH     ON-PEAK               No Register Readings Found
+   106516741   25051844IN   03      KWH     TOTAL                 No Register Readings Found
+   109041892   27507460IN   03      KWH     TOTAL                 No Register Readings Found
+   109226249   24511638IN   03      KWH     TOTAL                 No Register Readings Found
+   113209624   25962343IN   03      KWH     TOTAL                 No Register Readings Found
+   113682686   25962852IN   03      KWH     TOTAL                 No Register Readings Found
+   113742205   25373716IN   03      KWH     TOTAL                 No Register Readings Found
+   113814248   24517473IN   03      KWH     TOTAL                 No Register Readings Found
+   178491670   24421157IN   03      KWH     TOTAL                 No Register Readings Found
+   192252247   30101809LG   03      KWH     TOTAL                 No Register Readings Found
+   193136516   27391766IN   03      KWH     TOTAL                 No Register Readings Found
+   250091803   26304668IN   03      KWH     TOTAL                 No Register Readings Found
+   250123391   25991470IN   03      KWH     TOTAL                 No Register Readings Found
+   274006403   27281596LG   03      KWH     TOTAL                 No Register Readings Found
+   275466801   24989177IN   03      KWH     TOTAL                 No Register Readings Found
+   275487328   26939102IN   03      KWH     TOTAL                 No Register Readings Found
+   275499723   26943543IN   03      KWH     TOTAL                 No Register Readings Found
+   275518922   26941475IN   03      KWH     OFF-PEAK              No Register Readings Found
+   275518922   26941475IN   03      KWH     MID-PEAK              No Register Readings Found
+   275518922   26941475IN   03      KWH     ON-PEAK               No Register Readings Found
+   275518922   26941475IN   03      KWH     TOTAL                 No Register Readings Found
+   275525592   27296042IN   03      KWH     TOTAL                 No Register Readings Found
+   275554285   26940488IN   03      KWH     TOTAL                 No Register Readings Found
+   275584008   26943610IN   03      KWH     TOTAL                 No Register Readings Found
+   275644773   25988901IN   03      KWH     TOTAL                 No Register Readings Found
+   275667149   32627153IN   03      KWH     TOTAL                 No Register Readings Found
+   275701729   32627200IN   03      KWH     TOTAL                 No Register Readings Found
+   280213690   32620888IN   03      KWH     TOTAL                 No Register Readings Found
+   280213990   32620891IN   03      KWH     TOTAL                 No Register Readings Found
+   280231140   26939110IN   03      KWH     TOTAL                 No Register Readings Found
+   280236251   26939177IN   03      KWH     TOTAL                 No Register Readings Found
+   280243268   26028588IN   03      KWH     TOTAL                 No Register Readings Found
+   280261841   27282830LG   03      KWH     TOTAL                 No Register Readings Found
+   280285373   32897552LG   03      KWH     TOTAL                 No Register Readings Found
+   280297231   31457607IN   03      KWH     TOTAL                 No Register Readings Found
+   280323493   32621572IN   03      KWH     TOTAL                 No Register Readings Found
+   280328127   27282436LG   03      KWH     TOTAL                 No Register Readings Found
+   280360701   32620826IN   03      KWH     TOTAL                 No Register Readings Found
+   280360919   32727843IN   03      KWH     TOTAL                 No Register Readings Found
+   280370791   32639878IN   03      KWH     TOTAL                 No Register Readings Found
+   280376487   26279318IN   03      KWH     TOTAL                 No Register Readings Found
+   280438757   26293866IN   03      KWH     TOTAL                 No Register Readings Found
+   280595723   27283273LG   03      KWH     TOTAL                 No Register Readings Found
+   280645738   32625991IN   03      KWH     TOTAL                 No Register Readings Found
+   280762275   25378270IN   03      KWH     TOTAL                 No Register Readings Found
+   280821689   25983801IN   03      KWH     TOTAL                 No Register Readings Found
+   280830718   25985895IN   03      KWH     TOTAL                 No Register Readings Found
+   281146798   24579477IN   03      KWH     TOTAL                 No Register Readings Found
+   281476237   26945175IN   03      KWH     TOTAL                 No Register Readings Found
+   281514266   26934968IN   03      KWH     TOTAL                 No Register Readings Found
+   308077851   26305341IN   03      KWH     OFF-PEAK              No Register Readings Found
+   308077851   26305341IN   03      KWH     MID-PEAK              No Register Readings Found
+   308077851   26305341IN   03      KWH     ON-PEAK               No Register Readings Found
+   308077851   26305341IN   03      KWH     TOTAL                 No Register Readings Found
+   308154604   25988081IN   03      KWH     TOTAL                 No Register Readings Found
+   308169236   25988105IN   03      KWH     TOTAL                 No Register Readings Found
+   308232464   26936354IN   03      KWH     TOTAL                 No Register Readings Found
+   308651204   26942754IN   03      KWH     TOTAL                 No Register Readings Found
+   308661917   25991238IN   03      KWH     TOTAL                 No Register Readings Found
+   308662836   25991240IN   03      KWH     TOTAL                 No Register Readings Found
+   328723096   27143790IN   03      KWH     TOTAL                 No Register Readings Found
+   384854320   23774578IN   03      KWH     TOTAL                 No Register Readings Found
+   399999436   32164811IN   03      KWH     TOTAL                 No Register Readings Found
+   410685731   21746659IN   03      KWH     TOTAL                 No Register Readings Found
+   510566783   25977219IN   03      KWH     TOTAL                 No Register Readings Found
+   549405801   25005461IN   03      KWH     TOTAL                 No Register Readings Found
+   56242924    23150895IN   03      KWH     TOTAL                 No Register Readings Found
+   57001350    33052457LG   03      KWH     TOTAL                 No Register Readings Found
+   57458984    23126666IN   03      KWH     TOTAL                 No Register Readings Found
+   57708201    23635648IN   03      KWH     TOTAL                 No Register Readings Found
+   57958785    24403732IN   03      KWH     TOTAL                 No Register Readings Found
+   57966563    24403726IN   03      KWH     TOTAL                 No Register Readings Found
+   58002937    24402234IN   03      KWH     TOTAL                 No Register Readings Found
+   58021781    24419046IN   03      KWH     TOTAL                 No Register Readings Found
+   58682643    24152688IN   03      KWH     TOTAL                 No Register Readings Found
+   586863618   32897689LG   03      KWH     TOTAL                 No Register Readings Found
+   58755055    24152894IN   03      KWH     TOTAL                 No Register Readings Found
+   59726808    24165716IN   03      KWH     TOTAL                 No Register Readings Found
+   61053945    23784432IN   03      KWH     TOTAL                 No Register Readings Found
+   61480774    23140447IN   03      KWH     TOTAL                 No Register Readings Found
+   61483122    23140955IN   03      KWH     TOTAL                 No Register Readings Found
+   620106050   26945495IN   03      KWH     TOTAL                 No Register Readings Found
+   63179955    23133347IN   03      KWH     TOTAL                 No Register Readings Found
+   63284922    23134082IN   03      KWH     TOTAL                 No Register Readings Found
+   635468609   24152403IN   03      KWH     TOTAL                 No Register Readings Found
+   750430611   24420760IN   03      KWH     TOTAL                 No Register Readings Found
+   769750029   24495873IN   03      KWH     TOTAL                 No Register Readings Found
+   769759180   27392511IN   03      KWH     TOTAL                 No Register Readings Found
+   769774071   26283305IN   03      KWH     TOTAL                 No Register Readings Found
+   769834635   10087910AB   03      KWH     TOTAL                 No Register Readings Found
+   769835265   22237330IN   03      KWH     TOTAL                 No Register Readings Found
+   769839751   21760474IN   03      KWH     TOTAL                 No Register Readings Found
+   769859813   24304407IN   03      KWH     TOTAL                 No Register Readings Found
+   769863790   23099269LG   03      KWH     TOTAL                 No Register Readings Found
+   769869779   31111885IN   03      KWH     TOTAL                 No Register Readings Found
+   769884658   23128179IN   03      KWH     TOTAL                 No Register Readings Found
+   80085804    25348397IN   03      KWH     TOTAL                 No Register Readings Found
+   813043088   25067108IN   03      KWH     TOTAL                 No Register Readings Found
+   82575748    24501167IN   03      KWH     TOTAL                 No Register Readings Found
+   83472962    10057190AB   03      KWH     TOTAL                 No Register Readings Found
+   83941953    25372013IN   03      KWH     TOTAL                 No Register Readings Found
+   84422514    24576777IN   03      KWH     TOTAL                 No Register Readings Found
+   85031086    25075517IN   03      KWH     OFF-PEAK              No Register Readings Found
+   85031086    25075517IN   03      KWH     MID-PEAK              No Register Readings Found
+   85031086    25075517IN   03      KWH     ON-PEAK               No Register Readings Found
+   85031086    25075517IN   03      KWH     TOTAL                 No Register Readings Found
+   899601150   27281686LG   03      KWH     TOTAL                 No Register Readings Found
+   922193875   24418856IN   03      KWH     TOTAL                 No Register Readings Found
+   942677230   24419028IN   03      KWH     TOTAL                 No Register Readings Found
+   952465837   27281691LG   03      KWH     TOTAL                 No Register Readings Found
+   959910387   24419054IN   03      KWH     TOTAL                 No Register Readings Found
+    66264142                                            No pending read rows in Banner
+    68090739                                            No pending read rows in Banner
+    68201574                                            No pending read rows in Banner
+    81062971                                            No pending read rows in Banner
+    81494827                                            No pending read rows in Banner
+    85010264                                            No pending read rows in Banner
+   107157108                                            No pending read rows in Banner
+   191161914                                            No pending read rows in Banner
+   192244837                                            No pending read rows in Banner
+   192713260                                            No pending read rows in Banner
+   193855708                                            No pending read rows in Banner
+   193858657                                            No pending read rows in Banner
+   280775556                                            No pending read rows in Banner
+   387397852                                            No pending read rows in Banner
+   416570221                                            No pending read rows in Banner
+   622250714                                            No pending read rows in Banner
+   645959298                                            No pending read rows in Banner
+   769746417                                            No pending read rows in Banner
+   769839475                                            No pending read rows in Banner
+   992371485                                            No pending read rows in Banner
+
+
+
+
+
+   Total number of PODs requested - On Cycle                           : 39036   
+   Number of PODs OC with readings provided for entire configuration   : 38864   
+   Number of PODs OC with readings provided for partial configuration  : 0       
+   Number of PODs OC with no readings provided at all                  : 172     
+
+
+   Total number of readings requested - On Cycle                       : 43424   
+   Number of readings provided - On Cycle                              : 43045   
+   Number of readings not provided - On Cycle                          : 379     
+
+
+   Total number of PODs requested - Exceptions                         : 74      
+   Number of PODs EXC with readings provided for entire configuration  : 40      
+   Number of PODs EXC with readings provided for partial configuration : 0       
+   Number of PODs EXC with no readings provided at all                 : 34      
+   Number of PODs EXC with actual readings provided                    : 7       
+   Number of PODs EXC with estimated readings provided                 : 33      
+
+
+   Total number of readings requested - Exceptions                     : 146     
+   Number of actual readings provided                                  : 22      
+   Number of estimated readings provided                               : 33      
+   Number of readings not provided                                     : 91      
+
+__substg1.0_3703001F*VZÿÿÿÿ¡__substg1.0_3704001F*ÿÿÿÿÿÿÿÿÿÿÿÿ¢__substg1.0_3707001F*Y\ÿÿÿÿ£__substg1.0_370E001F*ÿÿÿÿÿÿÿÿÿÿÿÿ¦0__substg1.0_3712001F*[]ÿÿÿÿ§P__properties_version1.00ÿÿÿÿÿÿÿÿÿÿÿÿ©ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ@client.com!lþô÷77ÿÿÿÿ4yù¢0 @0èÉrX7Ó@0èÉrX7Ó7"777 727R
